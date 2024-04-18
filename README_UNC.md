@@ -1,3 +1,6 @@
+Atencion! Este repositorio no es de mi autoria, es una copia del trabajo de Rodrigo Quiroga (rquiroga)
+con la intencion de brindar el mismo analisis a los datos de la UTN FRC
+=================================================================================
 Ejecución presupuestaria 2024 de la Universidad Nacional de Córdoba
 =================================================================================
 
